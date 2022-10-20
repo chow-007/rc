@@ -4,6 +4,7 @@
 rust导出共享库，供其他语言使用
 
 运行cbuild.sh,导出rust c共享库，并且编译c二进制cbin
+
 运行gobuild.sh脚本，导出rust c共享库，并且编译go二进制文件gobin
 
 
